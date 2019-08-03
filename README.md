@@ -9,4 +9,4 @@ AED位置資訊： https://data.gov.tw/dataset/12063
 Thanks Neilxx for the inspiration and tagrim for ods2json.
 
 sample screen:
-![alt text](https://github.com/morchaos/twATM/blob/master/screen.png)
+![alt text](https://github.com/morchaos/twAED/blob/master/screen.png)
